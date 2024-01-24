@@ -2,10 +2,11 @@
 * A passionate Flutter developer from India
 * B.Tech CSE '25
 * Jalpaiguri Government Engineering College
-* 🔭 I’m currently working on [Animu](https://github.com/Abhigyan103/Animu)
+* 🔭 I’m currently working on [**Animu**](https://github.com/Abhigyan103/Animu)
 * 🌱 I’m currently learning **Web Development**
 
 ## Languages and Tools:
+<div style="display:flex">
 <div>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
@@ -24,6 +25,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </div>
+</div>
 
 ## Github Statistics
 
@@ -41,5 +43,5 @@
 <a href="https://www.instagram.com/not.gyaanii/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&alt=instagram" /></a>
 <a href="mailto:abhigyansingh56@gmail.com" target="_blank"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.buymeacoffee.com/abhigyan103" target="_blank"><img src="https://img.shields.io/badge/buy me a coffee-%23FFDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=black&alt='buy me a coffee'" /></a>
-<!-- <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=Abhigyan103&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="abhigyan103" /></a> -->
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=Abhigyan103&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="abhigyan103" /></a>
 </div>
